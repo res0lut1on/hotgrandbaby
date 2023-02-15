@@ -1,13 +1,13 @@
 
 # <p align="center"> ♀️  hotgrandbaby  ♀️ </p>
-# *<p align="center"> Wanna meet with hot grand Babulya? </p>* 
+# *<p align="center"> 💁‍♀️Wanna meet with hot grand Babulya? </p>* 
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/Desktop1.png?raw=true)
 <br />
-# <p align="center"> Meet, search, Electronic bulletin board </p>
+# <p align="center"> <span style="color: red"> Meet </span>, <span style="color: Yellow"> Search </span> search — Electronic bulletin board </p>
 
  - **Authorisation is required by default** <br />
- - **Search form + filter (clickble column) ** <br />
+ - **Search form + filter (clickble column)** <br />
  - **Check form** <br />
  - **Star, save form** <br />
  - **Mark form** <br />
