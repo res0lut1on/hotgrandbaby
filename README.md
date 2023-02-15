@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/Desktop1.png?raw=true)
 <br />
-# <p align="center"> <span style="color: red"> Meet </span>, <span style="color: Yellow"> Search </span> search — Electronic bulletin board </p>
+# <p align="center"> <span color="red"> Meet</span>, <span style="color: Yellow"> Search </span> search — Electronic bulletin board </p>
 
  - **Authorisation is required by default** <br />
  - **Search form + filter (clickble column)** <br />
