@@ -3,13 +3,13 @@ Wanna meet with hot grand Babulya?
 
 Meet, search, Electronic bulletin board
 
-**Authorisation is required by default**.
-**Search form + filtr**
-**Check form**
-**Star, save form**
-**Mark form**
-**Create Blank**
-**CRUD with Blank**
+**Authorisation is required by default**__
+**Search form + filtr**__
+**Check form**__
+**Star, save form**__
+**Mark form**__
+**Create Blank**__
+**CRUD with Blank**__
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/Desktop1.png?raw=true)
 
