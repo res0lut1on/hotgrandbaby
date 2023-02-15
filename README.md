@@ -6,9 +6,9 @@
 
 Meet, search, Electronic bulletin board
 
-**Authorisation is required by default** <br />
-**Search form + filter (clickble column) ** <br />
-**Check form** <br />
+** - Authorisation is required by default** <br />
+** - Search form + filter (clickble column) ** <br />
+** -Check form** <br />
 **Star, save form** <br />
 **Mark form** <br />
 **Create Blank** <br />
