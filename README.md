@@ -54,16 +54,17 @@
 https://www.figma.com/community/file/1207383583715170959
 
 Entities Model 
+
 > Baby {
    >>int::Id,
    >> int::Age,
    >> int::weight,
-   >>bool::insult,
-   >>bool::appart,
-   >>string::number,
-   >>datetime::cookingTime(isostring),
-   >>int::height
-   >}
+   >> bool::insult,
+   >> bool::appart,
+   >> string::number,
+   >> datetime::cookingTime(isostring),
+   >> int::height
+> }
    
 >User {
    >>int::Id,
