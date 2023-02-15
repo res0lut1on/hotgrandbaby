@@ -4,9 +4,9 @@ Wanna meet with hot grand Babulya?
 Meet, search, Electronic bulletin board
 
 **Authorisation is required by default**__
-**Search form + filtr**__
+**Search form + filtr**
 **Check form**__
-**Star, save form**__
+**Star, save form** <br />
 **Mark form**__
 **Create Blank**__
 **CRUD with Blank**__
