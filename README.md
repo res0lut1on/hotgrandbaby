@@ -3,8 +3,8 @@
 # *<p align="center"> Wanna meet with hot grand Babulya? </p>* 
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/Desktop1.png?raw=true)
-
-Meet, search, Electronic bulletin board
+<br />
+# <p align="center"> Meet, search, Electronic bulletin board </p>
 
  - **Authorisation is required by default** <br />
  - **Search form + filter (clickble column) ** <br />
