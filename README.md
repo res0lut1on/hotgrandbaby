@@ -11,15 +11,15 @@ Meet, search, Electronic bulletin board
 **Create Blank** <br />
 **CRUD with Blank** <br />
 
-MainDesktop (Auth/NoAuth) <br />
+#### MainDesktop (Auth/NoAuth) <br />
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/Desktop1.png?raw=true)
 
-**SignIn** <br />
+#### **SignIn** <br />
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/SignIn.png?raw=true)
 
-**SignUp** <br />
+#### **SignUp** <br />
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/SignUp.png?raw=true)
 
