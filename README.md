@@ -1,6 +1,6 @@
 
 # <p align="center"> ♀️  hotgrandbaby  ♀️ </p>
-# * <p align="center"> Wanna meet with hot grand Babulya? </p> *
+# * <p align="center"> Wanna meet with hot grand Babulya? </p> 
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/Desktop1.png?raw=true)
 
