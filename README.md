@@ -55,7 +55,7 @@ https://www.figma.com/community/file/1207383583715170959
 
 Entities Model 
 <br />
-> Baby {
+Baby {
    <br /> int::Id,
    <br /> int::Age,
    <br /> int::weight,
@@ -64,11 +64,11 @@ Entities Model
    <br /> string::number,
    <br /> datetime::cookingTime(isostring),
    <br /> int::height
-> }
+}
    <br />
->User {
+User {
    <br /> int::Id,
    <br /> string::Email,
    <br /> string::Password(hash),
    <br /> string::PhoneNumber
-   >}
+   }
