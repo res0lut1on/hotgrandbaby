@@ -24,6 +24,29 @@
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/SignUp.png?raw=true)
 
+## **List** <br />
+
+![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/List.png?raw=true)
+
+## **ListOfYourBabies** <br />
+
+![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/ListOfYourBabies.png?raw=true)
+
+## **InfoAnketa.png** <br />
+
+![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/InfoAnketa.png?raw=true
+
+## **CreateForm.png** <br />
+
+![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/CreateForm.png?raw=true)
+
+## **SomeTextInfo.png** <br />
+
+![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/SomeTextInfo.png?raw=true)
+
+<br />
+### *Example page for a different information, for ex. contact, about us and e.t.c
+
 ## MainDesktop (Auth/NoAuth) <br />
 
 ![alt text](https://github.com/res0lut1on/hotgrandbaby/blob/main/Pages/Desktop1.png?raw=true)
