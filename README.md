@@ -63,7 +63,7 @@ Baby {
    <br /> bool::appart,
    <br /> string::number,
    <br /> datetime::cookingTime(isostring),
-   <br /> int::height
+   <br /> int::height <br />
 }
    <br />
    <br />
@@ -71,5 +71,5 @@ User {
    <br /> int::Id,
    <br /> string::Email,
    <br /> string::Password(hash),
-   <br /> string::PhoneNumber
+   <br /> string::PhoneNumber <br />
    }
