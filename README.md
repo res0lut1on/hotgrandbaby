@@ -54,21 +54,21 @@
 https://www.figma.com/community/file/1207383583715170959
 
 Entities Model 
-
+<br />
 > Baby {
-   >>int::Id,
-   >> int::Age,
-   >> int::weight,
-   >> bool::insult,
-   >> bool::appart,
-   >> string::number,
-   >> datetime::cookingTime(isostring),
-   >> int::height
+   <br /> int::Id,
+   <br /> int::Age,
+   <br /> int::weight,
+   <br /> bool::insult,
+   <br /> bool::appart,
+   <br /> string::number,
+   <br /> datetime::cookingTime(isostring),
+   <br /> int::height
 > }
-   
+   <br />
 >User {
-   >>int::Id,
-   >>string::Email,
-   >>string::Password(hash),
-   >>string::PhoneNumber
+   <br /> int::Id,
+   <br /> string::Email,
+   <br /> string::Password(hash),
+   <br /> string::PhoneNumber
    >}
